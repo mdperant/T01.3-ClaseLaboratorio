@@ -1,0 +1,10 @@
+PROJECT TITLE: "T01.2-ClaseLaboratorio"
+CAMBIOS DEL PROYECTO CON RESPECTO AL LIBRO: 
+
+1) Se traducen los identificadores a español.
+2) Se añade una estructura de paquetes.
+3) Se definen interfaces para todos los tipos. 
+5) Se usan tipos envoltura, en lugar de tipos básicos.
+7) Se añade una clase de test.
+8) Se hace uso de LocalDateTime para modelar la fecha y la hora (en el proyecto original se hace con un String)
+9) Se usa la interfaz List en los atributos en lugar de la clase de implementaci�n.
