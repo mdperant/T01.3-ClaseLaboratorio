@@ -14,12 +14,12 @@ Ada Lovelace, uvus:adalov
 Grace Murray, uvus:gramur
 Frances Allen, uvus:fraall
 ```
-1. Crear las tres estudiantes siguientes, e inscrbirlas en la clase.
+4. Crear las tres estudiantes siguientes, e inscrbirlas en la clase.
 ```
 Hedy Lamarr, uvus: hedlam, puntos: 22
 Ángela Ruiz, uvus: angrui, puntos: 14
 Margaret Hamilton, uvus:marham, puntos: 23
 ```
-1.Definir el profesor, aula y horario de la clase.
-1. Calcular la media de puntos de las tres últimas estudiantes inscritas.
+5. Definir el profesor, aula y horario de la clase.
+6. Calcular la media de puntos de las tres últimas estudiantes inscritas.
 
