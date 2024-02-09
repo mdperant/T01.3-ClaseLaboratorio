@@ -14,9 +14,7 @@ public class TestLaboratorio {
 		System.out.println(c.toString());
 	}
 	
-	public static void testmediapuntos(ClaseLaboratorio c) {
-		for ()
-	}
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
